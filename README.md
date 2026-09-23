@@ -86,18 +86,3 @@ retail-intelligence-copilot/
 ├── .gitignore
 └── README.md`**:
 
-
-Key Features
-• Natural-language retail analytics
-• Automatic question routing
-• SQL-based business analytics
-• RAG-based review analysis
-
-Example Questions
-• What are the top 5 products by revenue?
-• What are the complaints about Product_13?
-
-Future Improvements
-• RAG evaluation metrics
-• SQL safety layer
-• Conversation memory
