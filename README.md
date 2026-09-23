@@ -89,7 +89,7 @@ retail-intelligence-copilot/
 
 
 
-Key Features
+## Key Features
 Natural-language retail analytics
 Automatic question routing
 SQL-based business analytics
@@ -99,13 +99,13 @@ Product-specific filtering
 Streamlit chat interface
 PostgreSQL integration
 ChromaDB vector search
-Example Questions
+## Example Questions
 What are the top 5 products by revenue?
 
 What are the complaints about Product_13?
 
 What are the sales of Product_13 and what do customers think about it?
-Future Improvements
+## Future Improvements
 RAG evaluation metrics
 SQL safety layer
 Conversation memory
