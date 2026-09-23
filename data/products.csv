@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,supplier_id
+1,Product_1,Fragrance,FreshAura,26.51,8
+2,Product_2,Bath & Body,FreshAura,24.04,3
+3,Product_3,Makeup,BeautyPlus,87.96,4
+4,Product_4,Makeup,FreshAura,97.29,6
+5,Product_5,Haircare,NatureGlow,26.51,10
+6,Product_6,Bath & Body,NatureGlow,12.08,10
+7,Product_7,Fragrance,NatureGlow,42.97,3
+8,Product_8,Fragrance,NatureGlow,63.32,3
+9,Product_9,Bath & Body,BeautyPlus,71.23,9
+10,Product_10,Haircare,NatureGlow,94.8,2
+11,Product_11,Haircare,GlowCare,11.44,2
+12,Product_12,Fragrance,NatureGlow,49.61,7
+13,Product_13,Fragrance,FreshAura,84.99,3
+14,Product_14,Skincare,NatureGlow,26.4,4
+15,Product_15,Haircare,PureSkin,61.09,2
+16,Product_16,Haircare,NatureGlow,94.55,4
+17,Product_17,Fragrance,GlowCare,96.51,5
+18,Product_18,Bath & Body,PureSkin,58.57,8
+19,Product_19,Haircare,GlowCare,35.28,9
+20,Product_20,Bath & Body,FreshAura,16.71,7
+21,Product_21,Skincare,GlowCare,27.88,8
+22,Product_22,Makeup,BeautyPlus,73.62,3
+23,Product_23,Makeup,GlowCare,64.54,10
+24,Product_24,Haircare,GlowCare,92.35,9
+25,Product_25,Fragrance,PureSkin,18.59,7
+26,Product_26,Bath & Body,BeautyPlus,63.22,6
+27,Product_27,Makeup,BeautyPlus,52.5,5
+28,Product_28,Makeup,GlowCare,74.96,7
+29,Product_29,Makeup,GlowCare,73.96,10
+30,Product_30,Haircare,NatureGlow,19.71,7
+31,Product_31,Skincare,NatureGlow,60.69,4
+32,Product_32,Bath & Body,FreshAura,58.59,4
+33,Product_33,Bath & Body,BeautyPlus,72.53,2
+34,Product_34,Haircare,FreshAura,36.61,5
+35,Product_35,Fragrance,NatureGlow,29.66,4
+36,Product_36,Makeup,PureSkin,20.99,9
+37,Product_37,Skincare,GlowCare,30.51,9
+38,Product_38,Fragrance,FreshAura,87.47,7
+39,Product_39,Makeup,GlowCare,53.63,1
+40,Product_40,Makeup,PureSkin,40.39,6
+41,Product_41,Skincare,NatureGlow,42.73,1
+42,Product_42,Haircare,NatureGlow,32.22,7
+43,Product_43,Haircare,BeautyPlus,37.08,1
+44,Product_44,Skincare,BeautyPlus,64.86,2
+45,Product_45,Fragrance,FreshAura,41.06,1
+46,Product_46,Makeup,PureSkin,57.78,10
+47,Product_47,Fragrance,BeautyPlus,43.27,1
+48,Product_48,Bath & Body,NatureGlow,98.51,6
+49,Product_49,Makeup,GlowCare,23.56,6
+50,Product_50,Bath & Body,BeautyPlus,63.18,4
+51,Product_51,Makeup,PureSkin,56.09,3
+52,Product_52,Fragrance,NatureGlow,94.65,8
+53,Product_53,Haircare,GlowCare,70.81,9
+54,Product_54,Skincare,PureSkin,93.22,10
+55,Product_55,Makeup,NatureGlow,25.75,9
+56,Product_56,Fragrance,NatureGlow,33.47,1
+57,Product_57,Fragrance,FreshAura,91.04,7
+58,Product_58,Skincare,GlowCare,41.43,3
+59,Product_59,Fragrance,GlowCare,67.78,1
+60,Product_60,Fragrance,NatureGlow,62.26,9
+61,Product_61,Makeup,GlowCare,10.46,2
+62,Product_62,Haircare,BeautyPlus,68.68,9
+63,Product_63,Fragrance,GlowCare,11.63,5
+64,Product_64,Fragrance,BeautyPlus,69.19,1
+65,Product_65,Fragrance,BeautyPlus,43.09,7
+66,Product_66,Bath & Body,BeautyPlus,90.28,2
+67,Product_67,Bath & Body,GlowCare,61.92,1
+68,Product_68,Bath & Body,NatureGlow,75.02,3
+69,Product_69,Fragrance,BeautyPlus,79.17,1
+70,Product_70,Fragrance,NatureGlow,52.3,5
+71,Product_71,Makeup,NatureGlow,11.39,8
+72,Product_72,Bath & Body,GlowCare,59.75,3
+73,Product_73,Fragrance,GlowCare,16.78,5
+74,Product_74,Skincare,BeautyPlus,25.25,9
+75,Product_75,Haircare,PureSkin,93.7,8
+76,Product_76,Haircare,PureSkin,32.87,10
+77,Product_77,Haircare,PureSkin,76.67,1
+78,Product_78,Skincare,BeautyPlus,73.8,7
+79,Product_79,Bath & Body,PureSkin,82.84,3
+80,Product_80,Haircare,GlowCare,65.04,10
+81,Product_81,Skincare,NatureGlow,81.85,1
+82,Product_82,Fragrance,BeautyPlus,40.42,2
+83,Product_83,Haircare,BeautyPlus,51.9,6
+84,Product_84,Haircare,PureSkin,12.75,4
+85,Product_85,Haircare,BeautyPlus,21.44,1
+86,Product_86,Bath & Body,NatureGlow,29.42,5
+87,Product_87,Fragrance,FreshAura,27.49,3
+88,Product_88,Fragrance,FreshAura,97.26,10
+89,Product_89,Makeup,GlowCare,45.89,3
+90,Product_90,Fragrance,PureSkin,17.06,5
+91,Product_91,Haircare,FreshAura,17.28,9
+92,Product_92,Fragrance,FreshAura,15.24,10
+93,Product_93,Skincare,PureSkin,31.58,6
+94,Product_94,Skincare,FreshAura,35.19,7
+95,Product_95,Bath & Body,FreshAura,47.76,10
+96,Product_96,Makeup,FreshAura,20.81,5
+97,Product_97,Skincare,NatureGlow,25.78,10
+98,Product_98,Haircare,FreshAura,52.61,1
+99,Product_99,Bath & Body,PureSkin,65.43,5
+100,Product_100,Fragrance,PureSkin,33.48,10

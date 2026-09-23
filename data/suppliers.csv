@@ -1,0 +1,11 @@
+supplier_id,supplier_name,delivery_days,delayed_orders
+1,Supplier_1,11,18
+2,Supplier_2,11,31
+3,Supplier_3,2,4
+4,Supplier_4,14,3
+5,Supplier_5,9,15
+6,Supplier_6,8,1
+7,Supplier_7,2,27
+8,Supplier_8,12,19
+9,Supplier_9,9,11
+10,Supplier_10,3,34
